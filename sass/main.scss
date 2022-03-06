@@ -84,7 +84,7 @@ header {
 	.hero-img {
 		position: relative;
 		height: 100vh;
-		background-image: url('/img/game-console-g8536ff1b9_640.jpg');
+		background-image: url('../img/game-console-g8536ff1b9_640.jpg');
 		background-position: center;
 		background-size: cover;
 		background-attachment: fixed;
@@ -147,7 +147,7 @@ header {
 
 .aboutus-hero {
 	position: relative;
-	background-image: url('/img/technology-gd91e40dbf_640.jpg');
+	background-image: url('../img/technology-gd91e40dbf_640.jpg');
 	background-position: center;
 	background-size: cover;
 	color: $light-gray;
@@ -252,7 +252,7 @@ header {
 
 .team {
 	position: relative;
-	background-image: url('/img/chairs-2181980_1920.jpg');
+	background-image: url('../img/chairs-2181980_1920.jpg');
 	background-size: cover;
 	background-attachment: fixed;
 	background-position: center;
@@ -313,7 +313,7 @@ header {
 
 .contact {
 	position: relative;
-	background-image: url('/img/skyline-1869214_640.jpg');
+	background-image: url('../img/skyline-1869214_640.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: bottom;
@@ -373,7 +373,7 @@ header {
 		}
 	}
 	.contact {
-		background-image: url('/img/skyline-1869214_1920.jpg');
+		background-image: url('../img/skyline-1869214_1920.jpg');
 	}
 }
 
@@ -383,7 +383,7 @@ header {
 	}
 
 	.aboutus-hero {
-		background-image: url('/img/technology-2818664.jpg');
+		background-image: url('../img/technology-2818664.jpg');
 	}
 
 	.price-text {
@@ -394,7 +394,7 @@ header {
 @media (min-width: 1200px) {
 	header {
 		.hero-img {
-			background-image: url('/img/game-console-ge1bc52fa4_1920.jpg');
+			background-image: url('../img/game-console-ge1bc52fa4_1920.jpg');
 		}
 	}
 }
